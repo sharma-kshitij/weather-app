@@ -80,6 +80,7 @@ html {
     flex-direction: row;
 }
 
+
 .weather_details_toggle {
     display: flex;
     align-items: center;

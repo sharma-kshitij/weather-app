@@ -3,7 +3,6 @@ import './App.css';
 import ForecastCard from './ForecastCard';
 import weather from './weather.json'
 import WeatherDetails from './WeatherDetails';
-import cloudy from './images/cloudy.png'
 import { MdArrowDropDown } from 'react-icons/md'
 import { getImage } from './getImage'
 
